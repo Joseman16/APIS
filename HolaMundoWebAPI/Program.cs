@@ -19,6 +19,8 @@ if(nombre is not null)
 
 var builder = WebApplication.CreateBuilder(args);
 
+var cadenaDeConexion = builder.Configuration.GetValue<string>("cadenaDeConexion");
+
 // Add services to the container.
 builder.Services.AddRazorPages();
 
@@ -41,6 +43,6 @@ app.UseAuthorization();
 
 app.MapRazorPages();
 
-//app.MapGet("/", () => "Hola mundo cruel!");
+app.MapGet("/", () => cadenaDeConexion);
 
 app.Run();
