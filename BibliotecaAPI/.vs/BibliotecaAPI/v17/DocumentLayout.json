@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\bibliotecaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\josman\\desktop\\c#\\apis\\bibliotecaapi\\bibliotecaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:bibliotecaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\josman\\desktop\\c#\\apis\\bibliotecaapi\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AutoresController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\AutoresController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AutoresController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\AutoresController.cs",
-              "RelativeToolTip": "Controllers\\AutoresController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T21:38:49.211Z",
+              "Title": "BibliotecaAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\BibliotecaAPI.csproj",
+              "RelativeDocumentMoniker": "BibliotecaAPI.csproj",
+              "ToolTip": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\BibliotecaAPI.csproj",
+              "RelativeToolTip": "BibliotecaAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T21:38:11.449Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BibliotecaAPI",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\BibliotecaAPI.csproj",
-              "RelativeDocumentMoniker": "BibliotecaAPI.csproj",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\BibliotecaAPI.csproj",
-              "RelativeToolTip": "BibliotecaAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-06T21:38:11.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\Datos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Datos\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\Datos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Datos\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T21:35:10.075Z",
+              "WhenOpened": "2025-08-07T08:28:23.999Z",
               "EditorCaption": ""
             }
           ]

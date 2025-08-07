@@ -1,7 +1,15 @@
+using BibliotecaAPI.Datos;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+builder.Services.AddControllers();
+
+builder.Services.AddDbContext<ApplicationDbContext>(opciones =>
+opciones.UseSqlServer("name=DefaultConnection"));
 
 var app = builder.Build();
 
