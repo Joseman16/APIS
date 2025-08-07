@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HolaMundoWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75a9e6c580d28a57b4d439d45d21a3c9c30e0dc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+119c7a3f11d04797a41581a660ce1c8d6ac072b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("HolaMundoWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HolaMundoWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
