@@ -14,8 +14,8 @@ namespace BibliotecaAPI.Controllers
         private readonly ApplicationDbContext context;
 
         //Este es el contructor de la clase con un parametro de ApplicationDbContext
-        public AutoresController(ApplicationDbContext context) 
-        { 
+        public AutoresController(ApplicationDbContext context)
+        {
             this.context = context;
         }
 
@@ -37,11 +37,50 @@ namespace BibliotecaAPI.Controllers
         }*/
 
         // Tambien existe async Await en C#
+        //Insertar o postear autores
         [HttpPost]
         public async Task<ActionResult> Post(Autor autor)
         {
             context.Add(autor);
             await context.SaveChangesAsync();
+            return Ok();
+        }
+
+        //usamos una plantilla para buscar nuestro ID
+        [HttpGet("{id:int}")] // api/autores/id (ej: 1,2,3 u otro)
+        public async Task<ActionResult<Autor>> GetId(int id)
+        {
+            var autor = await context.Autores.FirstOrDefaultAsync(x => x.Id == id);
+            if (autor == null)
+            {
+                //si autor es NULL, retornamos un "No encontrado"
+                return NotFound();
+            }
+            return autor;
+        }
+
+        //Actualizar autores
+        [HttpPut("{id:int}")] // api/autores/id
+        public async Task<ActionResult> PutId(int id, Autor autor)
+        {
+            if (id !=autor.Id)
+            {
+                return BadRequest("Los ids deben de coincidir");
+            }
+            context.Update(autor);
+            await context.SaveChangesAsync();
+            return Ok();
+        }
+
+        //Eliminar autores
+        [HttpDelete("{id:int}")]
+        public async Task<ActionResult> DelelteId(int id)
+        {
+            var registrosBorrados = await context.Autores.Where(x=> x.Id == id).ExecuteDeleteAsync();
+            if(registrosBorrados == 0)
+            {
+                return NotFound();
+            }
             return Ok();
         }
         
