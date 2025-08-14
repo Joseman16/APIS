@@ -99,6 +99,47 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "BibliotecaAPI.Controllers.AutoresController",
+    "Method": "Get",
+    "RelativePath": "api/autores/{parametro1}/{parametro2}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parametro1",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "parametro2",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BibliotecaAPI.Controllers.AutoresController",
+    "Method": "GetPrimerAutor",
+    "RelativePath": "api/autores/primero",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "BibliotecaAPI.Entidades.Autor",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "BibliotecaAPI.Controllers.LibrosController",
     "Method": "Get",
     "RelativePath": "api/libros",

@@ -8,7 +8,7 @@ namespace BibliotecaAPI.Controllers
 
     [ApiController]
     [Route("api/libros")]
-    public class LibrosController : Controller
+    public class LibrosController : ControllerBase
     {
         private readonly ApplicationDbContext context;
         public LibrosController(ApplicationDbContext context) 

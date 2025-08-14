@@ -7,7 +7,7 @@ namespace BibliotecaAPI.Controllers
 {
     //ControllerBase, tiene funcionales auxiliares
     [ApiController]
-    [Route("api/autores")]
+    [Route("api/autores")] //Route: definimos la ruta de nuestro controladores
     public class AutoresController : ControllerBase
     {
         //tengo acceso al context
@@ -24,6 +24,22 @@ namespace BibliotecaAPI.Controllers
         {
             return await context.Autores.ToListAsync();
         }
+
+        [HttpGet("primero")] //Su ruta es: api/autores/primero
+        public async Task<Autor> GetPrimerAutor()
+        {
+            //Aqui indico que quiero elprimer autor (el id == 1)
+            return await context.Autores.FirstAsync();
+        }
+
+
+        [HttpGet("{parametro1}/{parametro2?}")] //api/autores/Jose/Leon...
+        public ActionResult Get(string parametro1, string? parametro2 = "Valor por defecto")
+        {
+            //retorno un cuerpo (new) anonimo o creado por mi...
+            return Ok(new {parametro1, parametro2});
+        }
+
 
         //Aca teniamos un metodo Harcodeado, osea con datos ya realizados
         /*public IEnumerable<Autor> Get()

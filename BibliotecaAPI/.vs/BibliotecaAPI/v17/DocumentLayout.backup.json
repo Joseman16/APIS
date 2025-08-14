@@ -1,26 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\josman\\desktop\\c#\\apis\\bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\josman\\desktop\\c#\\apis\\bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\josman\\desktop\\c#\\apis\\bibliotecaapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\josman\\desktop\\c#\\apis\\bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\migrations\\20250808061151_tablaautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:migrations\\20250808061151_tablaautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\migrations\\20250812064104_tablalibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:migrations\\20250812064104_tablalibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\josman\\desktop\\c#\\apis\\bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +46,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250808061151_TablaAutores.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Migrations\\20250808061151_TablaAutores.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250808061151_TablaAutores.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Migrations\\20250808061151_TablaAutores.cs",
+              "RelativeToolTip": "Migrations\\20250808061151_TablaAutores.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T20:54:32.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:20:01.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250812064104_TablaLibros.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Migrations\\20250812064104_TablaLibros.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250812064104_TablaLibros.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Migrations\\20250812064104_TablaLibros.cs",
+              "RelativeToolTip": "Migrations\\20250812064104_TablaLibros.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:20:02.167Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AutoresController.cs",
-              "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\Controllers\\AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\AutoresController.cs",
               "RelativeDocumentMoniker": "Controllers\\AutoresController.cs",
-              "ToolTip": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\AutoresController.cs",
               "RelativeToolTip": "Controllers\\AutoresController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwDUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T06:56:35.499Z",
               "EditorCaption": ""
@@ -48,52 +107,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T06:51:45.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "LibrosController.cs",
-              "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\Controllers\\LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\LibrosController.cs",
               "RelativeDocumentMoniker": "Controllers\\LibrosController.cs",
-              "ToolTip": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\LibrosController.cs",
               "RelativeToolTip": "Controllers\\LibrosController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAADwvysAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T07:02:12.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Autor.cs",
-              "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\Entidades\\Autor.cs",
-              "RelativeDocumentMoniker": "Entidades\\Autor.cs",
-              "ToolTip": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\Entidades\\Autor.cs",
-              "RelativeToolTip": "Entidades\\Autor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T06:38:22.76Z"
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T20:41:41.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\Entidades\\Libro.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Entidades\\Libro.cs",
               "RelativeDocumentMoniker": "Entidades\\Libro.cs",
-              "ToolTip": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\BibliotecaAPI\\Entidades\\Libro.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Entidades\\Libro.cs",
               "RelativeToolTip": "Entidades\\Libro.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T06:36:09.605Z"
+              "WhenOpened": "2025-08-12T06:36:09.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:51:45.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Entidades\\Autor.cs",
+              "RelativeDocumentMoniker": "Entidades\\Autor.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Entidades\\Autor.cs",
+              "RelativeToolTip": "Entidades\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T06:38:22.76Z"
             }
           ]
         }

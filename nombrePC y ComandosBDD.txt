@@ -1,0 +1,6 @@
+DESKTOP-KCFLU5L\\SQLEXPRESS (Laptop)
+DESKTOP-E124J3L (Escritorio)
+
+comando para base de datos:
+-> Add-Migration (nombre de la migracion)
+-> Update-Database
