@@ -50,7 +50,9 @@ namespace BibliotecaAPI.Controllers
         [HttpGet("{id:int}")] // api/autores/id (ej: 1,2,3 u otro)
         public async Task<ActionResult<Autor>> GetId(int id)
         {
-            var autor = await context.Autores.FirstOrDefaultAsync(x => x.Id == id);
+            var autor = await context.Autores
+                .Include(x => x.libros)
+                .FirstOrDefaultAsync(x => x.Id == id);
             if (autor == null)
             {
                 //si autor es NULL, retornamos un "No encontrado"
