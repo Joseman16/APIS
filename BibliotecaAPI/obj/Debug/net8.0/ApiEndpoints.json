@@ -101,6 +101,32 @@
   {
     "ContainingType": "BibliotecaAPI.Controllers.AutoresController",
     "Method": "Get",
+    "RelativePath": "api/autores/{nombre}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[BibliotecaAPI.Entidades.Autor, BibliotecaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BibliotecaAPI.Controllers.AutoresController",
+    "Method": "Get",
     "RelativePath": "api/autores/{parametro1}/{parametro2}",
     "HttpMethod": "GET",
     "IsController": true,

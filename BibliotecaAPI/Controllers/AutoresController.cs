@@ -40,6 +40,12 @@ namespace BibliotecaAPI.Controllers
             return Ok(new {parametro1, parametro2});
         }
 
+        //Colocamos una restricción
+        [HttpGet("{nombre:alpha}")]
+        public async Task<IEnumerable<Autor>> Get(string nombre)
+        {
+            return await context.Autores.Where(x => x.Nombre.Contains(nombre)).ToListAsync();
+        }
 
         //Aca teniamos un metodo Harcodeado, osea con datos ya realizados
         /*public IEnumerable<Autor> Get()
