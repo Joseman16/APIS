@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "ProyectoMusica.Controllers.CancionesController",
+    "Method": "GetCanciones",
+    "RelativePath": "api/cancion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoMusica.Controllers.CancionesController",
+    "Method": "CrearCancion",
+    "RelativePath": "api/cancion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cancion",
+        "Type": "ProyectoMusica.Models.Cancion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoMusica.Controllers.CantantesController",
+    "Method": "GetCantantes",
+    "RelativePath": "api/cantante",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoMusica.Controllers.CantantesController",
+    "Method": "CrearCantante",
+    "RelativePath": "api/cantante",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cantante",
+        "Type": "ProyectoMusica.Models.Cantante",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoMusica.Controllers.GenerosController",
+    "Method": "GetGeneros",
+    "RelativePath": "api/genero",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoMusica.Controllers.GenerosController",
+    "Method": "CrearGenero",
+    "RelativePath": "api/genero",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genero",
+        "Type": "ProyectoMusica.Models.Genero",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

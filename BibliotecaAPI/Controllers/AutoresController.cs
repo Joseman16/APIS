@@ -61,7 +61,7 @@ namespace BibliotecaAPI.Controllers
         // Tambien existe async Await en C#
         //Insertar o postear autores
         [HttpPost]
-        public async Task<ActionResult> Post(Autor autor)
+        public async Task<ActionResult> Post([FromBody] Autor autor)
         {
             context.Add(autor);
             await context.SaveChangesAsync();
@@ -69,8 +69,11 @@ namespace BibliotecaAPI.Controllers
         }
 
         //usamos una plantilla para buscar nuestro ID
-        [HttpGet("{id:int}")] // api/autores/id (ej: 1,2,3 u otro)
-        public async Task<ActionResult<Autor>> GetId(int id)
+        // api/autores/id (ej: 1,2,3 u otro)
+
+        // api/autores/id?incluirLibros=true|false
+        [HttpGet("{id:int}")] // api/autores/id? llave1=valor1&llave2=valor2
+        public async Task<ActionResult<Autor>> GetId([FromRoute] int id, [FromHeader]bool incluirLibros)
         {
             var autor = await context.Autores
                 .Include(x => x.libros)

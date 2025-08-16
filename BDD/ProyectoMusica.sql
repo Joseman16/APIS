@@ -1,0 +1,6 @@
+
+CREATE DATABASE MusicaDB;
+
+
+USE MusicaDB;
+

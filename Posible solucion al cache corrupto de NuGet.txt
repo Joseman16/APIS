@@ -1,0 +1,3 @@
+Borra la carpeta de caché de NuGet: dotnet nuget locals all --clear
+
+Vuelve a intentar la instalación/restauración: dotnet restore

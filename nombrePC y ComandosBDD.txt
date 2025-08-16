@@ -4,3 +4,7 @@ DESKTOP-E124J3L (Escritorio)
 comando para base de datos:
 -> Add-Migration (nombre de la migracion)
 -> Update-Database
+
+Tecnologias por descargar:
+->Microsoft.EntityFrameworkCore.Tools
+->Microsoft.EntityFrameworkCore.SqlServer
