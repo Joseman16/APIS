@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaAPI", "Biblioteca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoMusica", "..\ProyectoMusica\ProyectoMusica.csproj", "{39BECC1A-A309-4267-A22D-3FBE45D25501}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaVenta", "..\SistemaVenta\SistemaVenta.csproj", "{8935B90E-FF8B-4B27-98FB-D68BE3B7A48E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{39BECC1A-A309-4267-A22D-3FBE45D25501}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39BECC1A-A309-4267-A22D-3FBE45D25501}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39BECC1A-A309-4267-A22D-3FBE45D25501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8935B90E-FF8B-4B27-98FB-D68BE3B7A48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8935B90E-FF8B-4B27-98FB-D68BE3B7A48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8935B90E-FF8B-4B27-98FB-D68BE3B7A48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8935B90E-FF8B-4B27-98FB-D68BE3B7A48E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
