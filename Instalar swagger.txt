@@ -1,0 +1,4 @@
+
+En el comando de NuGet del proyecto:
+
+-> Install-Package Swashbuckle.AspNetCore

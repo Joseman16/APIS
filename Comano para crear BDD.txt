@@ -1,0 +1,11 @@
+Esto va en el appsetings.json:
+
+"ConnectionStrings": {
+  "BaseERP": "Server=DESKTOP-KCFLU5L\\SQLEXPRESS;Database=BASE_ERP;Trusted_Connection=True;TrustServerCertificate=True;"
+}
+
+comando que ejecuto en el Paquete de Nuget:
+Scaffold-DbContext "Name=BaseERP" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entidades
+
+comando completo:
+Scaffold-DbContext "Server=DESKTOP-KCFLU5L\\SQLEXPRESS;Database=BASE_ERP;Trusted_Connection=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entidades

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ERP.Controllers.ServicioController",
+    "Method": "testDb",
+    "RelativePath": "api/servicio/testDb",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
