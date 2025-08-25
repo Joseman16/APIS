@@ -1,26 +1,26 @@
 ﻿using ERP.Entidades;
 using Microsoft.AspNetCore.Mvc;
+using System.Linq;
 
 namespace ERP.Controllers
 {
     [ApiController]
     [Route("api/servicio")]
-    public class ServicioController : Controller
+    public class ServicioController : ControllerBase
     {
-        private readonly BaseErpContext context;
+        private readonly BaseErpContext _context;
 
         public ServicioController(BaseErpContext context)
         {
-            this.context = context;
-
+            _context = context;
         }
 
         [HttpGet("testDb")]
-        public IActionResult testDb()
+        public IActionResult TestDb()
         {
-            BaseErpContext context = new BaseErpContext();
-            return Ok(context.Pais.ToList());
+            // Usar el context inyectado, no crear uno nuevo
+            var paises = _context.Pais.ToList();
+            return Ok(paises);
         }
-
     }
 }

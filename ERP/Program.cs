@@ -20,9 +20,7 @@ builder.Services.AddControllers()
 
 // Agregar DbContext con la cadena de conexión
 builder.Services.AddDbContext<BaseErpContext>(options =>
-{
-    options.UseSqlServer(builder.Configuration.GetConnectionString("BaseERP"));
-});
+    options.UseSqlServer(builder.Configuration.GetConnectionString("BaseERP")));
 
 
 // -----------------------------

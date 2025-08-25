@@ -3,25 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{91236936-2E90-47C4-941E-930E0F9A031D}|..\\ERP\\ERP.csproj|c:\\users\\user\\desktop\\vmt\\apis\\erp\\controllers\\puntoemisioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91236936-2E90-47C4-941E-930E0F9A031D}|..\\ERP\\ERP.csproj|c:\\users\\user\\desktop\\vmt\\apis\\erp\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91236936-2E90-47C4-941E-930E0F9A031D}|..\\ERP\\ERP.csproj|c:\\users\\user\\desktop\\vmt\\apis\\erp\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91236936-2E90-47C4-941E-930E0F9A031D}|..\\ERP\\ERP.csproj|c:\\users\\user\\desktop\\vmt\\apis\\erp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91236936-2E90-47C4-941E-930E0F9A031D}|..\\ERP\\ERP.csproj|c:\\users\\user\\desktop\\vmt\\apis\\erp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91236936-2E90-47C4-941E-930E0F9A031D}|..\\ERP\\ERP.csproj|c:\\users\\user\\desktop\\vmt\\apis\\erp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91236936-2E90-47C4-941E-930E0F9A031D}|..\\ERP\\ERP.csproj|c:\\users\\user\\desktop\\vmt\\apis\\erp\\entidades\\baseerpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -35,6 +41,18 @@
       "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39BECC1A-A309-4267-A22D-3FBE45D25501}|..\\ProyectoMusica\\ProyectoMusica.csproj|c:\\users\\user\\desktop\\vmt\\apis\\proyectomusica\\proyectomusica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -43,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\bibliotecaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:bibliotecaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8935B90E-FF8B-4B27-98FB-D68BE3B7A48E}|..\\SistemaVenta\\SistemaVenta.csproj|c:\\users\\user\\desktop\\vmt\\apis\\sistemaventa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -109,10 +119,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\20250816181449_tblSistemaVentas1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -212,7 +218,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -220,176 +226,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PuntoEmisionController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Controllers\\PuntoEmisionController.cs",
+              "RelativeDocumentMoniker": "..\\ERP\\Controllers\\PuntoEmisionController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Controllers\\PuntoEmisionController.cs",
+              "RelativeToolTip": "..\\ERP\\Controllers\\PuntoEmisionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T22:11:01.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "..\\ERP\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "..\\ERP\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:20:43.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Program.cs",
               "RelativeDocumentMoniker": "..\\ERP\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Program.cs",
               "RelativeToolTip": "..\\ERP\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T22:05:31.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T22:05:31.965Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T22:05:19.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Datos\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Datos\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Datos\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Datos\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T22:05:09.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServicioController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Controllers\\ServicioController.cs",
-              "RelativeDocumentMoniker": "..\\ERP\\Controllers\\ServicioController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Controllers\\ServicioController.cs",
-              "RelativeToolTip": "..\\ERP\\Controllers\\ServicioController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T21:56:13.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "..\\ERP\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\appsettings.Development.json",
-              "RelativeToolTip": "..\\ERP\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-21T21:53:32.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseErpContext.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Entidades\\BaseErpContext.cs",
-              "RelativeDocumentMoniker": "..\\ERP\\Entidades\\BaseErpContext.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Entidades\\BaseErpContext.cs",
-              "RelativeToolTip": "..\\ERP\\Entidades\\BaseErpContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T21:55:05.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProyectoMusica",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ProyectoMusica\\ProyectoMusica.csproj",
-              "RelativeDocumentMoniker": "..\\ProyectoMusica\\ProyectoMusica.csproj",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ProyectoMusica\\ProyectoMusica.csproj",
-              "RelativeToolTip": "..\\ProyectoMusica\\ProyectoMusica.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-21T21:12:46.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "AutoresController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\AutoresController.cs",
               "RelativeDocumentMoniker": "Controllers\\AutoresController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\AutoresController.cs",
               "RelativeToolTip": "Controllers\\AutoresController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T06:56:35.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T06:56:35.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SistemaVenta",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\SistemaVenta.csproj",
-              "RelativeDocumentMoniker": "..\\SistemaVenta\\SistemaVenta.csproj",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\SistemaVenta.csproj",
-              "RelativeToolTip": "..\\SistemaVenta\\SistemaVenta.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-21T21:12:48.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BibliotecaAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\BibliotecaAPI.csproj",
-              "RelativeDocumentMoniker": "BibliotecaAPI.csproj",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\BibliotecaAPI.csproj",
-              "RelativeToolTip": "BibliotecaAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-16T09:35:57.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-14T20:41:41.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-16T16:15:50.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PrimeraLetraMayusculaAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
-              "RelativeDocumentMoniker": "Validaciones\\PrimeraLetraMayusculaAttribute.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
-              "RelativeToolTip": "Validaciones\\PrimeraLetraMayusculaAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ServicioController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Controllers\\ServicioController.cs",
+              "RelativeDocumentMoniker": "..\\ERP\\Controllers\\ServicioController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Controllers\\ServicioController.cs",
+              "RelativeToolTip": "..\\ERP\\Controllers\\ServicioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T20:00:41.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T21:56:13.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "Autor.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Entidades\\Autor.cs",
               "RelativeDocumentMoniker": "Entidades\\Autor.cs",
@@ -397,12 +295,143 @@
               "RelativeToolTip": "Entidades\\Autor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T06:38:22.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T06:38:22.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:02:12.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T16:15:50.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T20:41:41.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\ERP\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\appsettings.Development.json",
+              "RelativeToolTip": "..\\ERP\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T21:53:32.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrimeraLetraMayusculaAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "RelativeDocumentMoniker": "Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "RelativeToolTip": "Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:00:41.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseErpContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Entidades\\BaseErpContext.cs",
+              "RelativeDocumentMoniker": "..\\ERP\\Entidades\\BaseErpContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Entidades\\BaseErpContext.cs",
+              "RelativeToolTip": "..\\ERP\\Entidades\\BaseErpContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T21:55:05.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Datos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Datos\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Datos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Datos\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T22:05:09.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T22:05:19.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProyectoMusica.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ProyectoMusica\\ProyectoMusica.csproj",
+              "RelativeDocumentMoniker": "..\\ProyectoMusica\\ProyectoMusica.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ProyectoMusica\\ProyectoMusica.csproj",
+              "RelativeToolTip": "..\\ProyectoMusica\\ProyectoMusica.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T21:12:46.564Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "SistemaVenta.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\SistemaVenta.csproj",
+              "RelativeDocumentMoniker": "..\\SistemaVenta\\SistemaVenta.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\SistemaVenta.csproj",
+              "RelativeToolTip": "..\\SistemaVenta\\SistemaVenta.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T21:12:48.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BibliotecaAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\BibliotecaAPI.csproj",
+              "RelativeDocumentMoniker": "BibliotecaAPI.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\BibliotecaAPI.csproj",
+              "RelativeToolTip": "BibliotecaAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T09:35:57.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\appsettings.Development.json",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\appsettings.Development.json",
@@ -410,12 +439,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-16T16:15:43.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T16:15:43.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Program.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Program.cs",
@@ -423,12 +451,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:14:40.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T16:14:40.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\appsettings.json",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\appsettings.json",
@@ -436,12 +463,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-20T18:53:27.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T18:53:27.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Entidades\\Cliente.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Entidades\\Cliente.cs",
@@ -449,12 +475,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\Entidades\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:01:10.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T16:01:10.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "PuntoEmision.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Entidades\\PuntoEmision.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Entidades\\PuntoEmision.cs",
@@ -462,12 +487,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\Entidades\\PuntoEmision.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T18:10:38.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T18:10:38.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "20250816185401_tblSistemaVentas4.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\20250816185401_tblSistemaVentas4.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Migrations\\20250816185401_tblSistemaVentas4.cs",
@@ -478,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "AplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\AplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Migrations\\AplicationDbContextModelSnapshot.cs",
@@ -486,12 +510,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\Migrations\\AplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T19:11:36.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T19:11:36.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 64,
               "Title": "20250816185620_tblSistemaVentas1.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\20250816185620_tblSistemaVentas1.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Migrations\\20250816185620_tblSistemaVentas1.cs",
@@ -499,12 +522,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\Migrations\\20250816185620_tblSistemaVentas1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T18:56:20.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T18:56:20.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "20250816185146_tblSistemaVentas4.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\20250816185146_tblSistemaVentas4.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Migrations\\20250816185146_tblSistemaVentas4.cs",
@@ -515,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Entidades\\Usuario.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Entidades\\Usuario.cs",
@@ -523,12 +545,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\Entidades\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T15:59:23.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T15:59:23.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Entidades\\Rol.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Entidades\\Rol.cs",
@@ -536,12 +557,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\Entidades\\Rol.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:01:59.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T16:01:59.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "PuntoVenta.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Entidades\\PuntoVenta.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Entidades\\PuntoVenta.cs",
@@ -549,12 +569,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\Entidades\\PuntoVenta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAABBwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:07:29.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T16:07:29.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "PuntoEmisionController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Controllers\\PuntoEmisionController.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Controllers\\PuntoEmisionController.cs",
@@ -562,12 +581,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\Controllers\\PuntoEmisionController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAIBQwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:38:00.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T16:38:00.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "AplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Datos\\AplicationDbContext.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Datos\\AplicationDbContext.cs",
@@ -575,12 +593,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\Datos\\AplicationDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAIBQwBQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:23:50.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T16:23:50.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "PuntoVentaController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Controllers\\PuntoVentaController.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Controllers\\PuntoVentaController.cs",
@@ -588,12 +605,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\Controllers\\PuntoVentaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:40:19.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T16:40:19.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "RolController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Controllers\\RolController.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Controllers\\RolController.cs",
@@ -601,12 +617,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\Controllers\\RolController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAIBJwBYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:45:17.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T16:45:17.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "20250816183507_tblSistemaVentas3.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\20250816183507_tblSistemaVentas3.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Migrations\\20250816183507_tblSistemaVentas3.cs",
@@ -617,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Controllers\\UsuarioController.cs",
@@ -625,12 +640,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\Controllers\\UsuarioController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAuwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T17:26:52.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T17:26:52.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "20250816183222_tblSistemaVentas2.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\20250816183222_tblSistemaVentas2.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Migrations\\20250816183222_tblSistemaVentas2.cs",
@@ -641,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Entidades\\Libro.cs",
               "RelativeDocumentMoniker": "Entidades\\Libro.cs",
@@ -649,25 +663,11 @@
               "RelativeToolTip": "Entidades\\Libro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T06:36:09.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T06:36:09.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "LibrosController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\LibrosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LibrosController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\LibrosController.cs",
-              "RelativeToolTip": "Controllers\\LibrosController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAIBJwAoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T07:02:12.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "20250816181449_tblSistemaVentas1.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\20250816181449_tblSistemaVentas1.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Migrations\\20250816181449_tblSistemaVentas1.cs",
@@ -678,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "20250816173802_tblSistemaVentas3.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\20250816173802_tblSistemaVentas3.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Migrations\\20250816173802_tblSistemaVentas3.cs",
@@ -689,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "20250816173636_tblSistemaVentas2.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\20250816173636_tblSistemaVentas2.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Migrations\\20250816173636_tblSistemaVentas2.cs",
@@ -700,7 +700,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Controllers\\ClienteController.cs",
@@ -708,12 +708,11 @@
               "RelativeToolTip": "..\\SistemaVenta\\Controllers\\ClienteController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBQwBkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:30:52.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T16:30:52.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ProyectoMusica\\Program.cs",
               "RelativeDocumentMoniker": "..\\ProyectoMusica\\Program.cs",
@@ -721,12 +720,11 @@
               "RelativeToolTip": "..\\ProyectoMusica\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAIBJwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:14:57.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T16:14:57.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "ProyectoMusica.http",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ProyectoMusica\\ProyectoMusica.http",
               "RelativeDocumentMoniker": "..\\ProyectoMusica\\ProyectoMusica.http",
@@ -734,12 +732,11 @@
               "RelativeToolTip": "..\\ProyectoMusica\\ProyectoMusica.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-16T16:14:54.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T16:14:54.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ProyectoMusica\\appsettings.json",
               "RelativeDocumentMoniker": "..\\ProyectoMusica\\appsettings.json",
@@ -747,12 +744,11 @@
               "RelativeToolTip": "..\\ProyectoMusica\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-16T16:14:52.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T16:14:52.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "GenerosController.cs",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Controllers\\GenerosController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Controllers\\GenerosController.cs",
@@ -763,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "ProyectoMusica.csproj",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\ProyectoMusica.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\ProyectoMusica.csproj",
@@ -774,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\appsettings.Development.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\appsettings.Development.json",
@@ -785,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "20250816104256_tbProyectoMusica.cs",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Migrations\\20250816104256_tbProyectoMusica.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Migrations\\20250816104256_tbProyectoMusica.cs",
@@ -796,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "ProyectoMusica.http",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\ProyectoMusica.http",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\ProyectoMusica.http",
@@ -807,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Repository\\GenericRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Repository\\GenericRepository.cs",
@@ -818,7 +814,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "CancionesController.cs",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Controllers\\CancionesController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Controllers\\CancionesController.cs",
@@ -829,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\WeatherForecast.cs",
@@ -840,7 +836,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Repository\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Repository\\IGenericRepository.cs",
@@ -851,7 +847,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "Cancion.cs",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Models\\Cancion.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Models\\Cancion.cs",
@@ -862,7 +858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "Genero.cs",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Models\\Genero.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Models\\Genero.cs",
@@ -873,7 +869,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "Cantante.cs",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Models\\Cantante.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Models\\Cantante.cs",
@@ -884,7 +880,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "ResponseHelper.cs",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Helpers\\ResponseHelper.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Helpers\\ResponseHelper.cs",
@@ -895,7 +891,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "MusicaDbContext .cs",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Data\\MusicaDbContext .cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Data\\MusicaDbContext .cs",
@@ -906,7 +902,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "CantantesController.cs",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Controllers\\CantantesController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Controllers\\CantantesController.cs",
@@ -917,7 +913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 62,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\Program.cs",
@@ -928,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 63,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Josman\\Desktop\\C#\\APIS\\ProyectoMusica\\appsettings.json",
@@ -939,7 +935,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "20250808061151_TablaAutores.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Migrations\\20250808061151_TablaAutores.cs",
               "RelativeDocumentMoniker": "Migrations\\20250808061151_TablaAutores.cs",
@@ -947,12 +943,11 @@
               "RelativeToolTip": "Migrations\\20250808061151_TablaAutores.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T20:54:32.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T20:54:32.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "20250812064104_TablaLibros.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Migrations\\20250812064104_TablaLibros.cs",
               "RelativeDocumentMoniker": "Migrations\\20250812064104_TablaLibros.cs",
@@ -960,12 +955,11 @@
               "RelativeToolTip": "Migrations\\20250812064104_TablaLibros.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T07:20:02.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T07:20:02.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -973,12 +967,11 @@
               "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T07:20:01.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T07:20:01.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
