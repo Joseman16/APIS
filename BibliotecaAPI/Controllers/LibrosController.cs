@@ -31,7 +31,8 @@ namespace BibliotecaAPI.Controllers
 
             if (!existeAutor)
             {
-                return BadRequest($"El autor de id {libro.AutorId} no existe");
+                ModelState.AddModelError(nameof(libro.AutorId), $"El autor de id {libro.AutorId} no existe");
+                return ValidationProblem();
             }
             context.Add(libro);
             await context.SaveChangesAsync();

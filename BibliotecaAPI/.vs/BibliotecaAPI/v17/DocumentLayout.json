@@ -3,12 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91236936-2E90-47C4-941E-930E0F9A031D}|..\\ERP\\ERP.csproj|c:\\users\\user\\desktop\\vmt\\apis\\erp\\controllers\\puntoemisioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91236936-2E90-47C4-941E-930E0F9A031D}|..\\ERP\\ERP.csproj|c:\\users\\user\\desktop\\vmt\\apis\\erp\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,8 +11,18 @@
       "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91236936-2E90-47C4-941E-930E0F9A031D}|..\\ERP\\ERP.csproj|c:\\users\\user\\desktop\\vmt\\apis\\erp\\controllers\\puntoemisioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91236936-2E90-47C4-941E-930E0F9A031D}|..\\ERP\\ERP.csproj|c:\\users\\user\\desktop\\vmt\\apis\\erp\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91236936-2E90-47C4-941E-930E0F9A031D}|..\\ERP\\ERP.csproj|c:\\users\\user\\desktop\\vmt\\apis\\erp\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -115,10 +119,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{8935B90E-FF8B-4B27-98FB-D68BE3B7A48E}|..\\SistemaVenta\\SistemaVenta.csproj|c:\\users\\user\\desktop\\vmt\\apis\\sistemaventa\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|c:\\users\\user\\desktop\\vmt\\apis\\bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E69BCF1-DFF9-4368-A5C6-C3781AB07DC7}|BibliotecaAPI.csproj|solutionrelative:entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\20250816181449_tblSistemaVentas1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -218,7 +218,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -226,20 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PuntoEmisionController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Controllers\\PuntoEmisionController.cs",
-              "RelativeDocumentMoniker": "..\\ERP\\Controllers\\PuntoEmisionController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Controllers\\PuntoEmisionController.cs",
-              "RelativeToolTip": "..\\ERP\\Controllers\\PuntoEmisionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T22:11:01.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "..\\ERP\\Controllers\\ClienteController.cs",
@@ -251,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Program.cs",
               "RelativeDocumentMoniker": "..\\ERP\\Program.cs",
@@ -263,19 +250,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AutoresController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\AutoresController.cs",
               "RelativeDocumentMoniker": "Controllers\\AutoresController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\AutoresController.cs",
               "RelativeToolTip": "Controllers\\AutoresController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T06:56:35.499Z"
+              "WhenOpened": "2025-08-13T06:56:35.499Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ServicioController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Controllers\\ServicioController.cs",
               "RelativeDocumentMoniker": "..\\ERP\\Controllers\\ServicioController.cs",
@@ -287,31 +275,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Autor.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Entidades\\Autor.cs",
               "RelativeDocumentMoniker": "Entidades\\Autor.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Entidades\\Autor.cs",
               "RelativeToolTip": "Entidades\\Autor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T06:38:22.76Z"
+              "WhenOpened": "2025-08-12T06:38:22.76Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Entidades\\Libro.cs",
+              "RelativeDocumentMoniker": "Entidades\\Libro.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Entidades\\Libro.cs",
+              "RelativeToolTip": "Entidades\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T06:36:09.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LibrosController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\LibrosController.cs",
               "RelativeDocumentMoniker": "Controllers\\LibrosController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Controllers\\LibrosController.cs",
               "RelativeToolTip": "Controllers\\LibrosController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwBkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T07:02:12.968Z"
+              "WhenOpened": "2025-08-12T07:02:12.968Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "PuntoEmisionController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Controllers\\PuntoEmisionController.cs",
+              "RelativeDocumentMoniker": "..\\ERP\\Controllers\\PuntoEmisionController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Controllers\\PuntoEmisionController.cs",
+              "RelativeToolTip": "..\\ERP\\Controllers\\PuntoEmisionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T22:11:01.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -323,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -335,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\appsettings.Development.json",
               "RelativeDocumentMoniker": "..\\ERP\\appsettings.Development.json",
@@ -347,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PrimeraLetraMayusculaAttribute.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
               "RelativeDocumentMoniker": "Validaciones\\PrimeraLetraMayusculaAttribute.cs",
@@ -359,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BaseErpContext.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ERP\\Entidades\\BaseErpContext.cs",
               "RelativeDocumentMoniker": "..\\ERP\\Entidades\\BaseErpContext.cs",
@@ -371,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Datos\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Datos\\ApplicationDbContext.cs",
@@ -383,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -395,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ProyectoMusica.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\ProyectoMusica\\ProyectoMusica.csproj",
               "RelativeDocumentMoniker": "..\\ProyectoMusica\\ProyectoMusica.csproj",
@@ -407,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "SistemaVenta.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\SistemaVenta.csproj",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\SistemaVenta.csproj",
@@ -419,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "BibliotecaAPI.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\BibliotecaAPI.csproj",
               "RelativeDocumentMoniker": "BibliotecaAPI.csproj",
@@ -431,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\appsettings.Development.json",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\appsettings.Development.json",
@@ -443,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Program.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Program.cs",
@@ -455,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\appsettings.json",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\appsettings.json",
@@ -467,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Entidades\\Cliente.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Entidades\\Cliente.cs",
@@ -479,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "PuntoEmision.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Entidades\\PuntoEmision.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Entidades\\PuntoEmision.cs",
@@ -491,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "20250816185401_tblSistemaVentas4.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\20250816185401_tblSistemaVentas4.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Migrations\\20250816185401_tblSistemaVentas4.cs",
@@ -502,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\AplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Migrations\\AplicationDbContextModelSnapshot.cs",
@@ -526,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "20250816185146_tblSistemaVentas4.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\20250816185146_tblSistemaVentas4.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Migrations\\20250816185146_tblSistemaVentas4.cs",
@@ -537,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Entidades\\Usuario.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Entidades\\Usuario.cs",
@@ -549,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Entidades\\Rol.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Entidades\\Rol.cs",
@@ -561,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "PuntoVenta.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Entidades\\PuntoVenta.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Entidades\\PuntoVenta.cs",
@@ -573,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "PuntoEmisionController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Controllers\\PuntoEmisionController.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Controllers\\PuntoEmisionController.cs",
@@ -585,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "AplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Datos\\AplicationDbContext.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Datos\\AplicationDbContext.cs",
@@ -597,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "PuntoVentaController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Controllers\\PuntoVentaController.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Controllers\\PuntoVentaController.cs",
@@ -609,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "RolController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Controllers\\RolController.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Controllers\\RolController.cs",
@@ -621,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "20250816183507_tblSistemaVentas3.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\20250816183507_tblSistemaVentas3.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Migrations\\20250816183507_tblSistemaVentas3.cs",
@@ -632,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Controllers\\UsuarioController.cs",
@@ -644,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "20250816183222_tblSistemaVentas2.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\SistemaVenta\\Migrations\\20250816183222_tblSistemaVentas2.cs",
               "RelativeDocumentMoniker": "..\\SistemaVenta\\Migrations\\20250816183222_tblSistemaVentas2.cs",
@@ -652,18 +668,6 @@
               "RelativeToolTip": "..\\SistemaVenta\\Migrations\\20250816183222_tblSistemaVentas2.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T18:32:22.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Entidades\\Libro.cs",
-              "RelativeDocumentMoniker": "Entidades\\Libro.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\VMT\\APIS\\BibliotecaAPI\\Entidades\\Libro.cs",
-              "RelativeToolTip": "Entidades\\Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T06:36:09.605Z"
             },
             {
               "$type": "Document",
