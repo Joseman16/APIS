@@ -277,3 +277,4 @@ C:\Users\USER\Desktop\VMT\APIS\BibliotecaAPI\obj\Debug\net8.0\refint\BibliotecaA
 C:\Users\USER\Desktop\VMT\APIS\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.pdb
 C:\Users\USER\Desktop\VMT\APIS\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.genruntimeconfig.cache
 C:\Users\USER\Desktop\VMT\APIS\BibliotecaAPI\obj\Debug\net8.0\ref\BibliotecaAPI.dll
+C:\Users\Josman\Desktop\C#\APIS\BibliotecaAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
