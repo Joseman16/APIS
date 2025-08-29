@@ -288,5 +288,15 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "BibliotecaAPI.Controllers.ValoresController",
+    "Method": "GetServiciosTiempoDeVida",
+    "RelativePath": "api/valores/servicios-tiempo-de-vida",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

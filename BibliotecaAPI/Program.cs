@@ -6,7 +6,12 @@ using System.Text.Json.Serialization;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+//Area de servicios
 builder.Services.AddRazorPages();
+
+builder.Services.AddTransient<ServicioTransient>();
+builder.Services.AddScoped<ServicioScoped>();
+builder.Services.AddSingleton<ServicioSingleton>();
 
 builder.Services.AddTransient<IRepositorioValores, RepositorioValores>();
 
