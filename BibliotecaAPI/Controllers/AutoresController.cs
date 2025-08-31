@@ -13,15 +13,25 @@ namespace BibliotecaAPI.Controllers
         //tengo acceso al context
         private readonly ApplicationDbContext context;
 
+        private readonly ILogger<AutoresController> logger;
+
         //Este es el contructor de la clase con un parametro de ApplicationDbContext
-        public AutoresController(ApplicationDbContext context)
+        public AutoresController(ApplicationDbContext context, ILogger<AutoresController> logger)
         {
             this.context = context;
+            this.logger = logger;
         }
 
+        [HttpGet("listado-autores")] //Su ruta es: api/autores/listado-autores
         [HttpGet]
         public async Task<IEnumerable<Autor>> Get()
         {
+            logger.LogTrace("Obteniendo el listado de autores");
+            /*logger.LogDebug("Obteniendo el listado de autores");
+            logger.LogInformation("Obteniendo el listado de autores");
+            logger.LogWarning("Obteniendo el listado de autores");
+            logger.LogError("Obteniendo el listado de autores");
+            logger.LogCritical("Obteniendo el listado de autores");*/
             return await context.Autores.ToListAsync();
         }
 

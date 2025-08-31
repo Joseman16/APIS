@@ -23,7 +23,7 @@ namespace BibliotecaAPI.Entidades
             {
                 var primeraLetra = Nombre[0].ToString();
 
-                if(primeraLetra != primeraLetra.ToUpper() && Edad > 40)
+                if(primeraLetra != primeraLetra.ToUpper())
                 {
                     yield return new ValidationResult("La primera letra debe ser mayuscula - por modelo",
                         new string[] { nameof(Nombre)});
@@ -31,7 +31,7 @@ namespace BibliotecaAPI.Entidades
             }
         }
 
-        public int Edad { get; set; }
+        //public int Edad { get; set; }
 
         /* [Range(18, 100)]
          public int Edad { get; set; }

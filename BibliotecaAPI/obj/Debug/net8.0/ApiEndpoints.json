@@ -152,6 +152,26 @@
   },
   {
     "ContainingType": "BibliotecaAPI.Controllers.AutoresController",
+    "Method": "Get",
+    "RelativePath": "api/autores/listado-autores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[BibliotecaAPI.Entidades.Autor, BibliotecaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BibliotecaAPI.Controllers.AutoresController",
     "Method": "GetPrimerAutor",
     "RelativePath": "api/autores/primero",
     "HttpMethod": "GET",
@@ -288,6 +308,22 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "BibliotecaAPI.Controllers.ValoresController",
+    "Method": "Post",
+    "RelativePath": "api/valores",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "valor",
+        "Type": "BibliotecaAPI.Entidades.Valor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "BibliotecaAPI.Controllers.ValoresController",
